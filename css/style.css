@@ -102,6 +102,7 @@ footer{
 }
 .signinbtn{
 	margin-top:5px;
+	margin-bottom:15px;
 	padding: 4px 5px;
 	color: red;
 	background-color: white;
@@ -156,7 +157,7 @@ a{
    text-decoration: none;
   }
 footer{
-	margin-top: 390px;
+	margin-top: 150px;
 	background-color: red;
 	color: white;
 }

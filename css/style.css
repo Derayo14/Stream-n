@@ -1,0 +1,180 @@
+html, body{
+	height: 100%;
+	color: white;
+}	
+body{
+	background: rgba(0, 0, 0, 4.0) url("https://raw.githubusercontent.com/Derayo14/Stream-n/main/images/image1.png") ;
+	background-size: cover;
+}
+
+.logo{
+	width: 40%;
+}
+.login{
+	padding-left: 200px;
+}
+.signinbtn{
+	padding: 8px 10px;
+	color: red;
+	background-color: white;
+	display: inline-block;
+	text-decoration: none ;
+	cursor: pointer;
+}
+.signupbtn{
+	padding: 8px 10px;
+
+	color: red;
+	background-color: white;
+	display: inline-block;
+	text-decoration: none ;
+	cursor: pointer;
+}
+.navbar{
+	padding-top: 30px;
+	padding-left: 0px;
+	height: 10px;
+	display: flex;
+	align-items: center;
+  
+}
+
+p{
+	background-color: white;
+	opacity: 0.7;
+	color: red;
+	text-align: center;
+	font-size: 40pt;
+	font-family: cursive;
+}
+.txt{
+	width: 70%;
+	padding-left: 200px;
+	padding-top: 150px;
+}
+.input{
+    width: 300px;
+    height: 30px;
+    background-color: red;
+    border-radius: 8px;
+  }
+.but1{
+  	border-radius: 10px;
+  	color: red;
+
+  }
+a{
+   color: red;
+   text-decoration: none;
+  }
+footer{
+	margin-top: 150px;
+	background-color: red;
+	color: white;
+
+
+}
+.footertxt{
+	padding-bottom: 30px;
+	text-align: center;
+	font-family: monospace;
+	font-size: 20pt;
+}
+.ft2{
+	text-align: center;
+	font-size: 12pt;
+	color: white;
+	font-family: initial;
+}
+
+
+@media screen and (max-width: 789px){
+	body{
+	background: rgba(0, 0, 0, 4.0) url("https://raw.githubusercontent.com/Derayo14/Stream-n/main/images/img.png") ;
+	background-size: cover;
+
+}
+.logo{
+	width: 20%;
+}
+.login{
+	padding-left: 10px;
+}
+.signinbtn{
+	padding: 4px 5px;
+	color: red;
+	background-color: white;
+	display: e;
+	text-decoration: none ;
+	cursor: pointer;
+}
+.signupbtn{
+	padding: 4px 5px;
+
+	color: red;
+	background-color: white;
+	display: inline-block;
+	text-decoration: none ;
+	cursor: pointer;
+}
+.navbar{
+	padding-top: 15px;
+	padding-left: 0px;
+	height: 5px;
+	display: flex;
+	align-items: center;
+  
+}
+
+p{
+	background-color: white;
+	opacity: 0.7px;
+	color: red;
+	text-align: center;
+	font-size: 20pt;
+}
+.txt{
+	width: 70%;
+	padding-left: 55px;
+	padding-top: 75px;
+
+}
+.input{
+    width: 150px;
+    height: 15px;
+    background-color: red;
+    border-radius: 4px;
+  }
+.but1{
+  	border-radius: 5px;
+  	color: red;
+
+  }
+a{
+   color: red;
+   text-decoration: none;
+  }
+footer{
+	margin-top: 390px;
+	background-color: red;
+	color: white;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

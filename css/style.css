@@ -101,10 +101,11 @@ footer{
 	padding-left: 10px;
 }
 .signinbtn{
+	margin-top:5px;
 	padding: 4px 5px;
 	color: red;
 	background-color: white;
-	display: e;
+	display: inline-block;
 	text-decoration: none ;
 	cursor: pointer;
 }

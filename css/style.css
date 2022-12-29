@@ -101,7 +101,7 @@ footer{
 	padding-left: 10px;
 }
 .signinbtn{
-	margin-top:5px;
+	margin-top:15px;
 	margin-bottom:5px;
 	padding: 2px 2.5px;
 	color: red;
@@ -157,7 +157,7 @@ a{
    text-decoration: none;
   }
 footer{
-	margin-bottom: 80px;
+	margin-bottom: 70px;
 	background-color: red;
 	color: white;
 }
